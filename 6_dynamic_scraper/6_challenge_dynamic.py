@@ -64,7 +64,7 @@ class scraper:
             )
 
     def save_csv(self):
-        file = open(f"{self.keyword}_jobs.csv", "w", encoding="UTF-8-sig")
+        file = open(f"6_course_{self.keyword}.csv", "w", encoding="UTF-8-sig")
         writer = csv.writer(file)
         writer.writerow([
             "title", "company", "reward", "url"
