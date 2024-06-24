@@ -1,5 +1,7 @@
-<h1>Nico 쌤과 함께 하는 Python 공부</h1>
-<h4>
-  Python으로 웹 스크래퍼 만들기 강의 수강 : https://nomadcoders.co/python-for-beginners <br>
-  파이썬 챌린지 25기 수료 : https://nomadcoders.co/python-study <br>
-</h4>
+<h1>Nico 쌤과 함께 했던 절거운 Python 시간</h1>
+<h4>Python으로 웹 스크래퍼 만들기 강의 & 파이썬 챌린지 25기 수료</h4>
+
+본 레포지토리는 피이썬 강의와 챌린지에서 제출했던 일부 과제 백업용 입니다 🧚🏻‍♂️ <br>
+오늘 받은 따끈한 인증서 투척 - <br><br>
+
+<img src="/cert.png" width="300" height="200">
